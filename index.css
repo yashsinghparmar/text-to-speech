@@ -133,12 +133,13 @@ select{
 	}
 
 	.btn{
+		
+		min-width:60%;
 		font-size: 1.1rem;
-		min-width: auto;
 	}
 	select{
 		
-		min-width: auto;
+		min-width:70%;
 	}
 }
 
@@ -158,11 +159,13 @@ select{
 	}
 
 	.btn{
+		
+		min-width:60%;
 		font-size: 1.1rem;
-		min-width: auto;
 	}
 	select{
-		min-width: auto;
+		
+		min-width:70%;
 	}
 }
 
@@ -182,13 +185,13 @@ select{
 	}
 
 	.btn{
-	
-		min-width: auto;
+		
+		min-width:60%;
 		font-size: 1.1rem;
 	}
 	select{
 		
-		min-width: auto;
+		min-width:70%;
 	}
 }
 
@@ -208,12 +211,12 @@ select{
 
 	.btn{
 		
-		min-width: auto;
+		min-width:60%;
 		font-size: 1.1rem;
 	}
 	select{
 		
-		min-width: auto;
+		min-width:70%;
 	}
 }
 
